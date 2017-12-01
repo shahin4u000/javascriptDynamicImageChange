@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    width:0;
+}
+.hidden {
+    display: block;
+    visibility: hidden;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+
+}
+
+.display {
+    display: block;
+    position: absolute;
+    visibility: visible;
+    width: 400px;
+    height: 400px;
+
+}
+
+.footer {
+
+    background-color: burlywood;
+    height: 50px;
+    text-decoration: aliceblue;
+    text-align: center;
+
+}
